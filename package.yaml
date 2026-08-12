@@ -1,0 +1,8 @@
+# Package definition for just
+
+package_name: just
+github_repo: casey/just
+artifact_format: tar.gz
+description: "Just a command runner"
+
+# Build for all Debian suites and all supported architectures.
